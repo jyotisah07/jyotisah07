@@ -1,6 +1,6 @@
 [![MasterHead ]( https://media.istockphoto.com/id/1286642964/photo/analyst-working-with-business-analytics-and-data-management-system-on-computer-to-make-report.jpg?s=612x612&w=0&k=20&c=Qo8jWvG-RtH2UIMRg0OlU8IWl4ve-Ups5kydf3TzgXs=)]
 <h1 align="center">Hi 👋, I'm JYOTI KUMARI </h1>
-<h3 align="center">A Passionate Data Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Enthusiast </h3>
 
 
 - 🔭 I’m currently working on **enhancing my skills**
