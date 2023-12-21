@@ -8,6 +8,12 @@
 - 📫 How to reach me **jyotishah4356@gmail.com**
 - ⚡ Fun fact **I am switching to tech world from non-tech and really enjoying it.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jyoti-kumari-k07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jyoti-kumari-k07/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/jyotishah4356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jyotishah4356" height="30" width="40" /></a>
+</p>
+
 - <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" 
 rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png"
