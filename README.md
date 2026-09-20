@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on **enhancing my skills**
 - 💬 Ask me about **𝘌𝘹𝘤𝘦𝘭, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘚𝘘𝘓, Python**
 - 📫 How to reach me **jyotikumari230422@gmail.com**
-- ⚡ Fun fact **I am switching to tech world from non-tech and really enjoying it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
